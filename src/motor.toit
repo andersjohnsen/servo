@@ -4,7 +4,7 @@ import gpio
 import gpio.pwm
 
 /**
-A Servo Motor abstraction for configuring and working with an servo motor
+A Servo Motor abstraction for configuring and working with a servo motor
   using the Pulse-Width Modulation (PWM) sub-system.
 
 The default configuration of an servo motor is to operate at 50 Hz with the
