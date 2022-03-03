@@ -1,7 +1,7 @@
 // Copyright (C) 2021 Toitware ApS. All rights reserved.
 import math
 import gpio
-import gpio.pwm
+import gpio.pwm as gpio
 
 /**
 A Servo Motor abstraction for configuring and working with a servo motor
